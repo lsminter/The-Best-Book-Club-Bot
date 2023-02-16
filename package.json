@@ -1,0 +1,15 @@
+{
+  "name": "egghead-discord-bot-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
